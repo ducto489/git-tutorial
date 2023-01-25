@@ -17,7 +17,7 @@ Repo này là một guide hướng dẫn sử dụng github
 ### Pull, Add
 
 * Pull (kéo) code từ trung gian `git pull origin main`, từ nhánh khác `git pull origin branch_name`
-* Add file sau khi đã tạo file `git add .`
+* Add (thêm) file sau khi đã tạo file `git add .`
 
 ### Đẩy lên trung gian
 
