@@ -19,7 +19,7 @@ Repo này là một guide hướng dẫn sử dụng github
 * Pull (kéo) code từ trung gian `git pull origin main`, từ nhánh khác `git pull origin branch_name`
 * Add (thêm) file sau khi đã tạo file `git add .`
 
-### Đẩy lên trung gian
+### Đẩy lên trung gian (github)
 
 * Commit code lên github `git commit -am "YOUR COMMENT ABOUT THIS UPDATE"` 
 Lưu ý: Luôn commit trước khi push và comment cần chi tiết
